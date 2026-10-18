@@ -1,0 +1,19 @@
+{
+  "name": "Illustrated Philippine Flora Encyclopedia",
+  "short_name": "Philippine Flora",
+  "icons": [
+    {
+      "src": "android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#FAF7EE",
+  "background_color": "#FAF7EE",
+  "display": "standalone"
+}
